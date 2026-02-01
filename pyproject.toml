@@ -12,6 +12,7 @@ dependencies = [
     "openai[aiohttp]>=1.107.3",
     "python-dotenv>=1.1.1",
     "tiktoken>=0.11.0",
+    "imageio-ffmpeg>=0.5.1",
 ]
 
 [dependency-groups]
